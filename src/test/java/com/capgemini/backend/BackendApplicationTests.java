@@ -1,4 +1,4 @@
-package com.georgeherby.backend;
+package com.capgemini.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,9 +1,9 @@
-package com.georgeherby.backend.models;
+package com.capgemini.backend.models;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.util.ArrayList;
-import java.util.List;
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

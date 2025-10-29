@@ -1,6 +1,6 @@
-package com.georgeherby.backend.services;
+package com.capgemini.backend.services;
 
-import com.georgeherby.backend.models.Product;
+import com.capgemini.backend.models.Product;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

@@ -1,7 +1,7 @@
-package com.georgeherby.backend.controllers;
+package com.capgemini.backend.controllers;
 
-import com.georgeherby.backend.models.ItemsResponse;
-import com.georgeherby.backend.services.CartService;
+import com.capgemini.backend.models.ItemsResponse;
+import com.capgemini.backend.services.CartService;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

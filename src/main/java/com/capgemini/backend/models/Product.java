@@ -1,4 +1,4 @@
-package com.georgeherby.backend.models;
+package com.capgemini.backend.models;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.georgeherby.backend;
+package com.capgemini.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
